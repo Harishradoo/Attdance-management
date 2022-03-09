@@ -1,0 +1,7 @@
+pillow
+numpy
+keras
+sklearn
+opencv-contrib-python
+filetype
+mtcnn
